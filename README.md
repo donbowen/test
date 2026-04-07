@@ -15,10 +15,10 @@ each portfolio's daily return exposure to eight sector ETFs:
 Run the analysis with:
 
 ```bash
-python /home/runner/work/test/test/portfolio_sector_exposure.py
+python portfolio_sector_exposure.py
 ```
 
 Generated outputs:
 
-- `/home/runner/work/test/test/results/portfolio_sector_exposures.csv`
-- `/home/runner/work/test/test/results/portfolio_sector_exposure_summary.md`
+- `results/portfolio_sector_exposures.csv`
+- `results/portfolio_sector_exposure_summary.md`
